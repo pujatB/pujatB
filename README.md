@@ -16,15 +16,15 @@
  
 ![](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Postgresql-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Mongodb-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Github-181717?logo=Github&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-VS%20Code-007ACC?logo=Visual-Studio-Code&logoColor=white&style=for-the-badge)
 
 
